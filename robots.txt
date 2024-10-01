@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://denstit.github.io/sitemap.html.gz
+Sitemap: https://denstit.github.io/app/sitemap.html.gz
+Sitemap: https://denstit.github.io/assets/sitemap.html.gz
+Sitemap: https://denstit.github.io/css/sitemap.html.gz
+Sitemap: https://denstit.github.io/data/sitemap.html.gz
+Sitemap: https://denstit.github.io/includes/sitemap.html.gz
+Sitemap: https://denstit.github.io/item/sitemap.html.gz
+Sitemap: https://denstit.github.io/src/sitemap.html.gz
